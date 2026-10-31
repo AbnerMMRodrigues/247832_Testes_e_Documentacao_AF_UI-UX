@@ -2,6 +2,7 @@ package calculadora;
 
 public class calculadora {
 	
+	public int r = 0;
 	
 	public int calc(int a, int b, String op) 
 	{
