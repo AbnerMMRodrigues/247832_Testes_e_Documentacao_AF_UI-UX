@@ -6,13 +6,20 @@
 
 ## 1. Identificação do Projeto
 
-**Projeto:** Projeto Calculadora  
+**Projeto:** Projeto Calculadora
+ 
 **Contexto:** AF - ATIVIDADE INDIVÍDUAL — TESTES FUNCIONAIS, REFATORAÇÃO E DOCUMENTAÇÃO DE SOFTWARE
+
 **Aluno:** Abner Matheus Marques Rodrigues
-**RA:** 247832  
+
+**RA:** 247832
+
 **Curso:** Técnologia em Análise e Desenvolvimento de Sistemas
+
 **Disciplina:** UX/UI e Testes de Software
+
 **Professor:** Daniel Domingos Akira de Sá Pimentel Ohata
+
 **Semestre:** 2026.2  
 
 ---
