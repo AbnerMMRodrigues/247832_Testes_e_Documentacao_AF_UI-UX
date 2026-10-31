@@ -85,13 +85,13 @@ A aplicação deverá oferecer as seguintes operações:
 
 | Tecnologia | Versão | Utilização |
 |---|---|---|
-| Java | XX | Desenvolvimento |
-| JDK | XX | Compilação |
-| JUnit | XX | Testes |
-| Git | XX | Controle de versão |
+| Java | 25.0 | Desenvolvimento |
+| JDK | 25.0 | Compilação |
+| JUnit | 6.0 | Testes |
+| Git | 2.56.0 | Controle de versão |
 | GitHub | — | Repositório remoto |
 | JavaDoc | — | Documentação |
-| IDE | XX | Ambiente de desenvolvimento |
+| Eclipse IDE | 2026-09 | Ambiente de desenvolvimento |
 
 ---
 
