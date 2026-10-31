@@ -100,45 +100,61 @@ A aplicação deverá oferecer as seguintes operações:
 
 Branch Main
 ```text
-projeto_calculadora/
-│
-├── settings/
-│ 
-├── src/
-│   └── calculadora/
-│       └── Calculadora.java
-│       └── TesteCalculadora.java
+├── projeto_calculadora/
+│  ├── settings/ 
+│  ├── src/
+│      ├── calculadora/
+│           └── Calculadora.java
+│           └── TesteCalculadora.java
+│  ├── .classpath
+│  ├── .gitignore
+│  └── .project
 │
 ├── images/
 │   ├── testes/
 │   ├── javadoc/
 │   └── refatoracao/
 │
-├── .classpath
-├── .gitignore
-├── .project
-README.md
+└── README.md
 ```
 
 Branch Refatoracao
 ```text
-projeto_calculadora/
-│
-├── settings/
-│ 
-├── src/
-│   └── calculadora/
-│       └── Calculadora.java
-│       └── TesteCalculadora.java
-│
-├── doc/
+├── projeto_calculadora/
+│  ├── settings/ 
+│  ├── src/
+│      ├── calculadora/
+│           └── Calculadora.java
+│           └── TesteCalculadora.java
+│  ├── doc/
+│  ├── .classpath
+│  ├── .gitignore
+│  └── .project
 │
 ├── images/
 │   ├── testes/
 │   ├── javadoc/
 │   └── refatoracao/
 │
-├── .classpath
-├── .gitignore
-├── .project
-README.md
+└── README.md
+```
+---
+
+# 8. Imagens dos Testes
+
+TESTE INICIAL
+
+!["Teste Inicial"](images/testes/Teste_Main.png)
+
+TESTE REFATORADO
+
+![Texto Alternativo](images/testes/Teste_Refatorado.png)
+
+---
+
+# 9. Imagens do JavaDoc
+
+---
+
+# 10. Link do Repositório
+
