@@ -26,6 +26,7 @@ public class testeCalculadora {
 	 * Aciona a classe Calculadora como "calc" e realiza 6 inserções de parâmetros para conferir se os resultados
 	 * são equivalentes ao que se era esperado.
 	 * 
+	 * @param args Argumentos de linha de comando
 	 */
 	
 	
