@@ -1,6 +1,6 @@
 package calculadora;
 
-public class calculadora {
+public class Calculadora {
 	
 	public int r = 0;
 	
