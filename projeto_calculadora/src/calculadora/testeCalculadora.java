@@ -8,11 +8,33 @@ public class testeCalculadora {
 		
 		
 		//Testes
-		calc.calc(2, 3, "+"); //Resultado Esperado: 5
-		calc.calc(10, 4, "-"); //Resultado Esperado: 6
-		calc.calc(3, 5, "*"); //Resultado Esperado: 15
-		calc.calc(8, 2, "/"); //Resultado Esperado: 4
-		calc.calc(8, 0, "/"); //Resultado Esperado: Divisão por Zero
-		calc.calc(5, 5, "x"); //Resultado Esperado: Operação Inválida
+		System.out.println(calc.calcular(2, 3, "+"));
+		System.out.println(calc.calcular(10, 4, "-"));
+		System.out.println(calc.calcular(3, 5, "*"));
+		System.out.println(calc.calcular(8, 2, "/"));
+		
+		
+		try 
+		{
+			System.out.println(calc.calcular(8, 0, "/")); //exceção
+		}
+		
+		catch (IllegalArgumentException e)
+		{
+			System.out.println(e.getMessage());
+		}
+		
+		try 
+		{
+			System.out.println(calc.calcular(5, 5, "x")); //exceção
+		}
+		
+		catch (IllegalArgumentException e)
+		{
+			System.out.println(e.getMessage());
+		}
+		
+		
+		
 	}
 }
