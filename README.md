@@ -148,11 +148,27 @@ TESTE INICIAL
 
 TESTE REFATORADO
 
-![Texto Alternativo](images/testes/Teste_Refatorado.png)
+!["Teste Refatorado"](images/testes/Teste_Refatorado.png)
 
 ---
 
 # 9. Imagens do JavaDoc
+
+INDEX
+
+!["Index"](images/javadoc/JavaDoc1.png)
+
+TREE
+
+!["Tree"](images/javadoc/JavaDoc2.png)
+
+calculadora.Calculadora
+
+!["Calculadora"](images/javadoc/JavaDoc3.png)
+
+calculadora.testeCalculadora
+
+!["Teste_Calculadora"](images/javadoc/JavaDoc4.png)
 
 ---
 
